@@ -10,9 +10,9 @@ stopPONGING = 0
 
 HOST = 'irc.twitch.tv'
 PORT = 6667
-OAUTH = 'oauth:96cwhmzyqou0k3cejcpzafakl74gpk'
-USER = 'flameon122'
-CHAN = '#flameon122'
+OAUTH = #put yuor authorization code here
+USER = #your username
+CHAN = #this is your user with a hashtag in front (i.e. testUser becomes #testUser)
 
 
 irc = socket.socket()
